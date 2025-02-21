@@ -68,8 +68,8 @@ to {
  transform: rotate(360deg); 
 
 }
-
 }
+
 
 .star {
     width: 90px;
@@ -78,8 +78,8 @@ to {
     clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
     animation: spin 2s linear infinite;
     position: absolute;
-    top: 50px; 
-    left: 50%;
+    top: 515px; 
+    left: 48%;
 }
 
 
@@ -128,8 +128,6 @@ nav a:hover {
     
     
 }
-
-
        
 /* MAIN */
     .main-img {
@@ -166,6 +164,7 @@ nav ul {
     gap: 10px;
 }
 }
+
 
 /* FOOTER */  
 footer {
